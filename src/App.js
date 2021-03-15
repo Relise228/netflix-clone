@@ -5,6 +5,10 @@ import requests from './requests';
 import Row from './Row';
 let b;
 
+let b, k, l;
+
+let ff;
+
 function App() {
   return (
     <div className='app'>
