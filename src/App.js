@@ -4,6 +4,8 @@ import Nav from './Nav';
 import requests from './requests';
 import Row from './Row';
 
+let b, k, l;
+
 function App() {
   return (
     <div className='app'>
