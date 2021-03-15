@@ -6,6 +6,8 @@ import Row from './Row';
 
 let b, k, l;
 
+let ff;
+
 function App() {
   return (
     <div className='app'>
