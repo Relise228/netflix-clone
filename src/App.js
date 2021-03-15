@@ -3,6 +3,7 @@ import Banner from './Banner';
 import Nav from './Nav';
 import requests from './requests';
 import Row from './Row';
+let b;
 
 function App() {
   return (
